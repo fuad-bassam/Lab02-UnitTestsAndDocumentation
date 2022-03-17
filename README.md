@@ -30,7 +30,8 @@ the program has a lot of validation so that will work whatever user input
 
 ```
 **NOTE**
-The application doesn't have any connection with database put his system built from arrays have the same length etch array have like columns in database so it will be similar to database in his build and that makes the connecting with database in future easer 
+The application doesn't have any connection with database put his system built from arrays have the same length etch array 
+have like columns in database so it will be similar to database in his build and that makes the connecting with database in future easer 
 
 the system is a little bit complex but it has comments everywhere.
 ```
